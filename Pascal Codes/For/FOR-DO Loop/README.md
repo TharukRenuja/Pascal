@@ -2,7 +2,7 @@
 
 ### Example
 
-``FOR Variable :} Value_1 DOWNTO Value_2 DO``
+``FOR Variable := Value_1 DOWNTO Value_2 DO``
 
 - The value of Value_1 should be smaller than Value_2 to start repetition.
 - Repetition is started with Value_1 and ended with Value_2.
