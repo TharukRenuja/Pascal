@@ -8,7 +8,7 @@
 
 ## Code of This Pascal Program
 
-``sh
+```
 program IsXWhile(input, output);
     var x,c : integer;
     begin
@@ -21,4 +21,4 @@ program IsXWhile(input, output);
             writeln(c);
         end;
     end.
-``
+```
