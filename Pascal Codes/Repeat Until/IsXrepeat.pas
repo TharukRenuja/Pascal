@@ -1,4 +1,4 @@
-program IsXEquals10(input, output);
+program IsXRepeat(input, output);
     var x,c : integer;
     begin
         writeln('  ___ _____  __');
