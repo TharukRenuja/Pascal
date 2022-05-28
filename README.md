@@ -24,8 +24,12 @@ end.
 #### Standard data types in Pascal
 
 - Integer - Plus or minus whole numbers
+  ``` Example : 0, 46, -12 ```
 - Real - Plus or minus decimal numbers
+  ``` Example : 0.0, 25.68 ```
 - Boolean
-- Char - Any character of the key 
- board
+  ``` True or False ```
+- Char - Any character of the key board
+  ``` Example : ‘k’, ‘#’, ‘7‘ ```
 - String - Any sequence of characters
+  ``` Example : ‘ICT’, ‘programming’, ‘Pascal’ ```
