@@ -43,20 +43,23 @@ end.
     - OR operator
     - NOT operator
 
-##### Selection
+### Selection
 
-- IF Statement [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/IF%20Statement/)
-    - Nested IF [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/IF%20Statement/Nested%20IF/)
+- IF Statement [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/IF/)
+    - Nested IF [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/IF/Nested%20IF/)
 
-##### Repetition
+### Repetition
 - FOR
-  - FOR – DO Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/FOR%20Statement/FOR-DO/)
-  - FOR – DO Loop Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/FOR%20Statement/FOR-DO%20Loop/)
+  - FOR – DO Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/For/FOR-DO/)
+  - FOR – DO Loop Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/For/FOR-DO%20Loop/)
 - WHILE
-  - WHILE DO Loop Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/WHILE%20DO%20Loop/)
+  - WHILE DO Loop Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/While%20DO%20Loop/)
 - REPEAT UNTIL
   - REPEAT UNTIL Structure [``Example Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Pascal%20Codes/Repeat%20Until/)
 
+#### Enjoying with Pascal
+- [``Simple Tools``](https://github.com/TharukRenuja/Pascal/tree/main/Enjoy%20Pascal/Simple%20Tools/)
+- [``Prank Programs``](https://github.com/TharukRenuja/Pascal/tree/main/Enjoy%20Pascal/Prank%20Programs/)
 
 ### Contributors
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=TharukRenuja/Pascal)
